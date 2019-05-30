@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RobotSimulation</string>
+    <string name="command_error">Input error,Please check your commands.</string>
+
+</resources>
